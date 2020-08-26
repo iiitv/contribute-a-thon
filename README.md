@@ -10,6 +10,7 @@ We will be giving attractive goodies and schwag for __top 10 participants__ :spa
 - __[Useful links for the event 🔗](#useful-links-for-the-event-)__
 - __[Criteria for Contributions 🤓](#criteria-for-contributions-)__
 - __[Projects in iiitv 📘](#projects-in-iiitv-)__
+- __[Code of Conduct](CODE_OF_CONDUCT.md)__
 - __[Our Community](#our-community)__
 - __[Contact / Support](#contact--support)__
 
