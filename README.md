@@ -15,7 +15,7 @@ We will be giving attractive goodies and schwag for __top 10 participants__ :spa
 - __[Contact / Support](#contact--support)__
 
 ### Useful links for the event 🔗
-- __[IIIT Vadodara Slack channel](https://app.slack.com/client/T1M9507JT/C019428RMGW)__
+- __[IIIT Vadodara Slack channel](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)__
 - __[Resources](github.com/iiitv/resources)__
 - __[How to use GitHub](https://guides.github.com/activities/hello-world/)__
 - __[How to create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)__
@@ -24,7 +24,8 @@ We will be giving attractive goodies and schwag for __top 10 participants__ :spa
 
 ### Criteria for Contributions 🤓
 - Contributions will be counted only after the event has started i.e after 28th August after midnight :new_moon_with_face:
-- To communicate with the maintainers use `@iiitv/project-maintainers`.
+- To communicate with the maintainers use `@iiitv/project-maintainers` in the comments section on repos.
+- For communicating with everyone else use the __[slack channel](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
 - Only issues having **contribute-a-thon** label & **up-for-grabs** on them will be available for contribution.
 - Participants can create issues if there is need like fixing a bug :bug:, writing tests, updating documentation etc, the `@iiitv/project-maintainers` will review the issue and add the labels as stated above then it will be counted as a contribution.
 - Participants need to fork the repo before making any contributions.
@@ -43,7 +44,7 @@ Understanding these projects and contributing to these projects will surely help
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
 - Discord channel where we discuss topics related to DSA and Competitive Programming: [IIITVCC Discord Server Invite](https://discord.gg/pUPbVHF)
-- Join the Open Source Org and our Slack Channels to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/)
+- Join the Open Source Org and our Slack Channel to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/)
 
 ### Contact / Support
 
