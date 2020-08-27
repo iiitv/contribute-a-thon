@@ -1,5 +1,5 @@
-# contribute-a-thon
-Gear up open source lovers, here is a month long marathon :runner: for you. Staring, 29 August '20, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
+# Contribute-a-thon
+Gear up open source lovers, here is a month long marathon :runner: for you. Starting, 29 August '20, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
 
 Since it's a long marathon, exhaustion will be high but so will the prizes 🏆!
 
