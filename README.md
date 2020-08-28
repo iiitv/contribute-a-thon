@@ -45,7 +45,7 @@ Understanding these projects and contributing to these projects will surely help
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
 - Discord channel where we discuss topics related to DSA and Competitive Programming: [IIITVCC Discord Server Invite](https://discord.gg/pUPbVHF)
-- Join the Open Source Org and our Slack Channel to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/)
+- Join the Open Source Org and our Slack Channel to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/), [Slack](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)
 
 ### Contact / Support
 
