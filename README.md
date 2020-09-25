@@ -58,7 +58,7 @@ Understanding these projects and contributing to these projects will surely help
 
   ***
 
-<p align='center'>Made With ❤️ By <a href="https://github/iiitv">IIITV Coding Club</a></p>
+<p align='center'>Made With ❤️ By <a href="https://github.com/iiitv">IIITV Coding Club</a></p>
 
 
 
