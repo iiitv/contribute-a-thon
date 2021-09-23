@@ -1,9 +1,9 @@
 # Contribute-a-thon
-Gear up open source lovers, here is a month long marathon :runner: for you. Starting, 29 August '20, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
+Gear up open source lovers, here is a month long marathon :runner: for you. Starting, __01 October '21__, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
 
 Since it's a long marathon, exhaustion will be high but so will the prizes 🏆!
 
-We will be giving attractive goodies and schwag for __top 10 participants__ :sparkles:. So yeah this time high probability of swagness.
+We will be giving attractive goodies and schwag for __top performers__ :sparkles:. So yeah this time high probability of swagness.
 
 ## Contents
 - __[Contents](#contents)__
@@ -24,7 +24,7 @@ We will be giving attractive goodies and schwag for __top 10 participants__ :spa
 - __[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)__
 
 ### Criteria for Contributions 🤓
-- Contributions will be counted only after the event has started i.e after 28th August after midnight :new_moon_with_face:
+- Contributions will be counted only after the event has started i.e from 01 October :new_moon_with_face:
 - To communicate with the maintainers use `@iiitv/project-maintainers` in the comments section on repos.
 - For communicating with everyone else use the __[slack channel](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
 - Only issues having **contribute-a-thon** label & **up-for-grabs** on them will be available for contribution.
@@ -33,7 +33,7 @@ We will be giving attractive goodies and schwag for __top 10 participants__ :spa
 - The pull request (PR) title should specify the purpose for the PR.
 - Only merged PRs will be counted as a contribution.
 - Since difficulty level of every PR will not be same for everybody so there are __3__ levels in PR __easy__, __medium__ & __hard__.
-- __(Important)__ Make a google doc with your GitHub username as the doc's name, in this 👉 __[folder](https://drive.google.com/drive/folders/14n37FHdQjqHRmwb8m3Jnz5haV4_k0vvz?usp=sharing)__ to keep a track of your daily contributions. 
+- __(Important)__ Make a google doc with your GitHub username as the doc's name, in this 👉 __[folder](https://drive.google.com/drive/folders/1B5obEZWVrWWoN4YQftcEUAsTv5pz1hxA?usp=sharing)__ to keep a track of your daily contributions. 
 - If you want to work on any issue just tag the `@iiitv/project-maintainers` stating that "I want to work on this issue", the maintainers will assign the respective issue to you.
 
 ### [Projects in IIITV](https://github.com/iiitv/resources/blob/master/repos.md) 📘
@@ -41,6 +41,14 @@ We will be giving attractive goodies and schwag for __top 10 participants__ :spa
 It contains all the open source projects currently active in this organisation. It holds numerous projects implemented in different stacks like React, Django among others.
 Understanding these projects and contributing to these projects will surely help you to become a better coder.
 
+Some of the popular projects open for contribution:
+- __[IIITV Algos](https://github.com/iiitv/algos)__
+- __[Algos Web](https://github.com/iiitv/algos-web)__
+- __[IIITVCC](https://github.com/iiitv/iiitvcc)__
+- __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
+- __[Club Collabaration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
+- __[Getmein Web](https://github.com/iiitv/getmein-web)__
+- __[Club Calendar](https://github.com/iiitv/club_calendar)__
 ### Our Community
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
