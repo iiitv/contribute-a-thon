@@ -34,7 +34,14 @@ We will be giving attractive goodies and schwag for __top performers__ :sparkles
 - Only merged PRs will be counted as a contribution.
 - Since difficulty level of every PR will not be same for everybody so there are __3__ levels in PR __easy__, __medium__ & __hard__.
 - __(Important)__ Make a google doc with your GitHub username as the doc's name, in this 👉 __[folder](https://drive.google.com/drive/folders/1B5obEZWVrWWoN4YQftcEUAsTv5pz1hxA?usp=sharing)__ to keep a track of your daily contributions. 
-- If you want to work on any issue just tag the `@iiitv/project-maintainers` stating that "I want to work on this issue", the maintainers will assign the respective issue to you.
+- We have further subdivided our project maintainers into their respective tech stacks :
+  - `@iiitv/algo-maintainers`
+  - `@iiitv/django-maintainers`
+  - `@iiitv/nodejs-maintainers`
+  - `@iiitv/react-maintainers`
+  - `@iiitv/flutter-maintainers`
+
+- If you want to work on any issue just tag the `@iiitv/<tech stack of that respective repository>-maintainers` or `@iiitv/project-maintainers` stating that "I want to work on this issue", the maintainers will assign the respective issue to you.
 
 ### [Projects in IIITV](https://github.com/iiitv/resources/blob/master/repos.md) 📘
 
