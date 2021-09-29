@@ -52,10 +52,13 @@ Some of the popular projects open for contribution:
 - __[IIITV Algos](https://github.com/iiitv/algos)__
 - __[Algos Web](https://github.com/iiitv/algos-web)__
 - __[IIITVCC](https://github.com/iiitv/iiitvcc)__
-- __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
-- __[Club Collabaration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
+- __[Arcadia-Backend](https://github.com/iiitv/arcadia-backend)__
+- __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
 - __[Getmein Web](https://github.com/iiitv/getmein-web)__
 - __[Club Calendar](https://github.com/iiitv/club_calendar)__
+- __[Studybuddy-Backend](https://github.com/iiitv/studybuddy-backend)__
+- __[Studybuddy-Web](https://github.com/iiitv/studybuddy-web)__
+
 ### Our Community
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
