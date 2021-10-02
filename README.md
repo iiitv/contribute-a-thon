@@ -58,6 +58,9 @@ Some of the popular projects open for contribution:
 - __[Club Calendar](https://github.com/iiitv/club_calendar)__
 - __[Studybuddy-Backend](https://github.com/iiitv/studybuddy-backend)__
 - __[Studybuddy-Web](https://github.com/iiitv/studybuddy-web)__
+- __[CTF-Frontend](https://github.com/iiitv/CTF-frontend)__
+- __[CTF-Backend](https://github.com/iiitv/CTF-Backend)__
+- __[Arcadia-Frontend](https://github.com/iiitv/arcadia-official-web)__
 
 ### Our Community
 
