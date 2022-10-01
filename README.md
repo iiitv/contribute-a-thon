@@ -26,7 +26,7 @@ We will be giving attractive goodies and schwag for __top performers__ :sparkles
 ### Criteria for Contributions 🤓
 - Contributions will be counted only after the event has started i.e from 01 October :new_moon_with_face:
 - To communicate with the maintainers use `@iiitv/project-maintainers` in the comments section on repos.
-- For communicating with everyone else use the __[discord channel](https://discord.gg/pUPbVHF))__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
+- For communicating with everyone else use the __[discord channel](https://discord.gg/pUPbVHF)__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
 - Only issues having **contribute-a-thon** label & **up-for-grabs** on them will be available for contribution.
 - Participants can create issues if there is need like fixing a bug :bug:, writing tests, updating documentation etc, the `@iiitv/project-maintainers` will review the issue and add the labels as stated above then it will be counted as a contribution.
 - Participants need to fork the repo before making any contributions.
@@ -52,15 +52,14 @@ Some of the popular projects open for contribution:
 - __[IIITV Algos](https://github.com/iiitv/algos)__
 - __[Algos Web](https://github.com/iiitv/algos-web)__
 - __[IIITVCC](https://github.com/iiitv/iiitvcc)__
-- __[Arcadia-Backend](https://github.com/iiitv/arcadia-backend)__
+- __[MyMachine](https://github.com/iiitv/MyMachine)__
+- __[Asobimasu](https://github.com/iiitv/Asobimasu)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
 - __[Getmein Web](https://github.com/iiitv/getmein-web)__
-- __[Club Calendar](https://github.com/iiitv/club_calendar)__
-- __[Studybuddy-Backend](https://github.com/iiitv/studybuddy-backend)__
-- __[Studybuddy-Web](https://github.com/iiitv/studybuddy-web)__
-- __[CTF-Frontend](https://github.com/iiitv/CTF-frontend)__
-- __[CTF-Backend](https://github.com/iiitv/CTF-Backend)__
-- __[Arcadia-Frontend](https://github.com/iiitv/arcadia-official-web)__
+- __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
+- __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
+- 
+
 
 ### Our Community
 
