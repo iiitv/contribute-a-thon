@@ -58,7 +58,6 @@ Some of the popular projects open for contribution:
 - __[Getmein Web](https://github.com/iiitv/getmein-web)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
 - __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
-- 
 
 
 ### Our Community
