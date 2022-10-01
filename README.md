@@ -1,5 +1,5 @@
 # Contribute-a-thon
-Gear up open source lovers, here is a month long marathon :runner: for you. Starting, __01 October '21__, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
+Gear up open source lovers, here is a month long marathon :runner: for you. Starting, __01 October '22__, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
 
 Since it's a long marathon, exhaustion will be high but so will the prizes 🏆!
 
@@ -26,7 +26,7 @@ We will be giving attractive goodies and schwag for __top performers__ :sparkles
 ### Criteria for Contributions 🤓
 - Contributions will be counted only after the event has started i.e from 01 October :new_moon_with_face:
 - To communicate with the maintainers use `@iiitv/project-maintainers` in the comments section on repos.
-- For communicating with everyone else use the __[slack channel](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
+- For communicating with everyone else use the __[discord channel](https://discord.gg/pUPbVHF))__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
 - Only issues having **contribute-a-thon** label & **up-for-grabs** on them will be available for contribution.
 - Participants can create issues if there is need like fixing a bug :bug:, writing tests, updating documentation etc, the `@iiitv/project-maintainers` will review the issue and add the labels as stated above then it will be counted as a contribution.
 - Participants need to fork the repo before making any contributions.
