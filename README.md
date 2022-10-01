@@ -59,7 +59,6 @@ Some of the popular projects open for contribution:
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
 - __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__ 
 
-
 ### Our Community
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
