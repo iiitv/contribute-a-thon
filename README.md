@@ -53,9 +53,8 @@ Some of the popular projects open for contribution:
 - __[Algos Web](https://github.com/iiitv/algos-web)__
 - __[IIITVCC](https://github.com/iiitv/iiitvcc)__
 - __[MyMachine](https://github.com/iiitv/MyMachine)__
-- __[Asobimasu](https://github.com/iiitv/Asobimasu)__
+- __[PollPulse-Android](https://github.com/iiitv/PollPulse-Android)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
-- __[Getmein Web](https://github.com/iiitv/getmein-web)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
 - __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__ 
 
