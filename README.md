@@ -55,6 +55,7 @@ Some of the popular projects open for contribution:
 - __[MyMachine](https://github.com/iiitv/MyMachine)__
 - __[PollPulse-Android](https://github.com/iiitv/PollPulse-Android)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
+- __[Clubs-Event-Platform-backend](https://github.com/iiitv/clubs-event-platform-backend)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
 - __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__ 
 
