@@ -1,9 +1,6 @@
 # Contribute-a-thon
-Gear up open source lovers, here is a month long marathon :runner: for you. Starting, __01 October '23__, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
+Gear up open source lovers, here is a month long marathon :runner: for you. Starting, __01 October '24__, you will get to explore different tech stack, learn new things and also contribute to them - all at the same time.
 
-Since it's a long marathon, exhaustion will be high but so will the prizes 🏆!
-
-We will be giving attractive goodies and schwag for __top performers__ :sparkles:. So yeah this time high probability of swagness.
 
 ## Contents
 - __[Contents](#contents)__
@@ -16,7 +13,7 @@ We will be giving attractive goodies and schwag for __top performers__ :sparkles
 - __[Contact / Support](#contact--support)__
 
 ### Useful links for the event 🔗
-- __[IIIT Vadodara Slack channel](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)__
+- __[IIIT Vadodara Discord channel](https://discord.gg/xUK8w6xz)__
 - __[Resources](github.com/iiitv/resources)__
 - __[How to use GitHub](https://guides.github.com/activities/hello-world/)__
 - __[How to create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)__
@@ -26,16 +23,16 @@ We will be giving attractive goodies and schwag for __top performers__ :sparkles
 ### Criteria for Contributions 🤓
 - Contributions will be counted only after the event has started i.e from 01 October :new_moon_with_face:
 - To communicate with the maintainers use `@iiitv/project-maintainers` in the comments section on repos.
-- For communicating with everyone else use the __[discord channel](https://discord.gg/TNhFCFFG)__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
+- For communicating with everyone else use the __[discord channel](https://discord.gg/xUK8w6xz)__  and join the `#contribute-a-thon-discussions` to interact with project maintainers.
 - Only issues having **contribute-a-thon** label & **up-for-grabs** on them will be available for contribution.
 - Participants can create issues if there is need like fixing a bug :bug:, writing tests, updating documentation etc, the `@iiitv/project-maintainers` will review the issue and add the labels as stated above then it will be counted as a contribution.
 - Participants need to fork the repo before making any contributions.
 - The pull request (PR) title should specify the purpose for the PR.
 - Only merged PRs will be counted as a contribution.
 - Since difficulty level of every PR will not be same for everybody so there are __3__ levels in PR __easy__, __medium__ & __hard__.
-- __(Important)__ Make a google doc with your GitHub username as the doc's name, in this 👉 __[folder](https://drive.google.com/drive/folders/1Ft0l6Iun4-lDaGjJ3_bsqmYWgR3x9-e0?usp=sharing)__ to keep a track of your daily contributions. 
+- __(Important)__ Make a google doc with your GitHub username as the doc's name, in this 👉 __[folder](https://drive.google.com/drive/folders/1qWd_Vxv6G2aNNPbPtTNpeulYovOV-cMi?usp=sharing)__ to keep a track of your daily contributions. 
 - We have further subdivided our project maintainers into their respective tech stacks :
-  - `@iiitv/algo-maintainers`
+  - `@iiitv/ml-maintainers`
   - `@iiitv/django-maintainers`
   - `@iiitv/nodejs-maintainers`
   - `@iiitv/react-maintainers`
@@ -49,25 +46,24 @@ It contains all the open source projects currently active in this organisation. 
 Understanding these projects and contributing to these projects will surely help you to become a better coder.
 
 Some of the popular projects open for contribution:
-- __[IIITV Algos](https://github.com/iiitv/algos)__
-- __[Algos Web](https://github.com/iiitv/algos-web)__
 - __[IIITVCC](https://github.com/iiitv/iiitvcc)__
-- __[MyMachine](https://github.com/iiitv/MyMachine)__
 - __[PollPulse-Android](https://github.com/iiitv/PollPulse-Android)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
 - __[Clubs-Event-Platform-backend](https://github.com/iiitv/clubs-event-platform-backend)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
-- __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__ 
+- __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
+- More Projects to be added.
 
 ### Our Community
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
-- Discord channel where we discuss topics related to DSA and Competitive Programming: [IIITVCC Discord Server Invite](https://discord.gg/TNhFCFFG)
+- Discord channel where we discuss topics related to DSA and Competitive Programming: [IIITVCC Discord Server Invite](https://discord.gg/xUK8w6xz)
 - Join the Open Source Org and our Slack Channel to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/), [Slack](https://join.slack.com/t/iiitvadodara/shared_invite/zt-gx92qvc2-X_NREKMxP6f7DlyZuxzM_g)
 
 ### Contact / Support
 
 - Write to us at: [codingclub@iiitvadodara.ac.in](mailto:codingclub@iiitvadodara.ac.in)
+- Follow us on Instagram at: [https://www.instagram.com/codingclub_iiitv](https://www.instagram.com/codingclub_iiitv)
 - Follow us on Facebook at: [https://www.facebook.com/iiitvcc](https://www.facebook.com/iiitvcc)
 - Send us a tweet at: [https://twitter.com/iiitvcc](https://twitter.com/iiitvcc)
 - Get our updates on LinkedIn at: [https://www.linkedin.com/company/iiitvcc](https://www.linkedin.com/company/iiitvcc)
