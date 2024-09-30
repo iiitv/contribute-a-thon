@@ -47,7 +47,7 @@ Understanding these projects and contributing to these projects will surely help
 
 Some of the popular projects open for contribution:
 - __[IIITVCC](https://github.com/iiitv/iiitvcc)__
-- __[PollPulse-Android](https://github.com/iiitv/PollPulse-Android)__
+- __[PollPulse-Kotlin](https://github.com/iiitv/PollPulse-Kotlin)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
 - __[Clubs-Event-Platform-backend](https://github.com/iiitv/clubs-event-platform-backend)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
