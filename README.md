@@ -52,7 +52,7 @@ Some of the popular projects open for contribution:
 - __[Clubs-Event-Platform-backend](https://github.com/iiitv/clubs-event-platform-backend)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
 - __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
-- More Projects to be added.
+- __[Movie Review](https://github.com/iiitv/Movie-Review)__
 
 ### Our Community
 
