@@ -50,7 +50,6 @@ Some of the popular projects open for contribution:
 - __[Cererbo-Website](https://github.com/iiitv/CererboWebsite)__
 - __[PollPulse-Kotlin](https://github.com/iiitv/PollPulse-Kotlin)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
-- __[Clubs-Event-Platform-backend](https://github.com/iiitv/clubs-event-platform-backend)__
 - __[Club Collaboration Frontend](https://github.com/iiitv/club-collaboration-frontend)__
 - __[Club Collaboration Backend](https://github.com/iiitv/Club-Collabaration-backend)__
 - __[Movie Review](https://github.com/iiitv/Movie-Review)__
