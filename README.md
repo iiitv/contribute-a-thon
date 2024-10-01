@@ -46,7 +46,8 @@ It contains all the open source projects currently active in this organisation. 
 Understanding these projects and contributing to these projects will surely help you to become a better coder.
 
 Some of the popular projects open for contribution:
-- __[IIITVCC](https://github.com/iiitv/iiitvcc)__
+- __[IIITVCC](https://github.com/iiitv/iiitvcc/tree/new)__
+- __[Cererbo-Website](https://github.com/iiitv/CererboWebsite)__
 - __[PollPulse-Kotlin](https://github.com/iiitv/PollPulse-Kotlin)__
 - __[Arcadia-Auction](https://github.com/iiitv/Arcadia-Auction)__
 - __[Clubs-Event-Platform-backend](https://github.com/iiitv/clubs-event-platform-backend)__
